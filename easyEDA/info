@@ -1,0 +1,510 @@
+{
+  "uuid": "065563ce65856cb028f83ad07d697b2f",
+  "path": "Offline/TRS-80%20Testboard",
+  "name": "TRS-80 Testboard",
+  "content": "",
+  "created_at": "2022-02-03 14:47:39",
+  "updated_at": "2022-04-23 16:04:35",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "31860927fff19c779d13f09b646533ef",
+      "title": "Testboard",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "33d8e0ec118f4a43aabd54bd5e1d5b3d": 1,
+        "1a948d227c4245ae83f5c5b97ba2bc7e": 6,
+        "8fc6c609275749a897d40998da4bbc2e": 1,
+        "a5e315db7f144d3fbfc7385b2ccb3801": 7,
+        "1f785ee0f729472eae11899cf0ae61b4": 6,
+        "1b65af72cdde40ceaec35f7c8add4a37": 1,
+        "1c2192e158624ea8b68aea4638da56a4": 4,
+        "bf9d4e673a51435e949e749e24b321c9": 4,
+        "55b12ab96abb414ab9b05b84381c1db1": 3,
+        "6aa7d4d7ff2e42e9b65fff603d1258cc": 1,
+        "84692db103924ff0b9824090a260d74b": 3,
+        "3e680333a29649f0884211ec13d7ea68": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "TRS-80 Edge Connector",
+          1,
+          "TRS-80 EDGE CONNECTOR FOOTPRINT",
+          "E1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "4816d59f68d74bfc90a535373dce0cdb",
+            "uuid": "33d8e0ec118f4a43aabd54bd5e1d5b3d"
+          }
+        ],
+        [
+          "Pass-through",
+          1,
+          "40-POS EDGE CONNECTOR",
+          "E2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "a70ada0c1943479e92833b04204d8129",
+            "uuid": "8fc6c609275749a897d40998da4bbc2e"
+          }
+        ],
+        [
+          "From TRS-80",
+          1,
+          "HEADER1X9_2.54",
+          "H1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "4585a137ffd24bfd865e9ca62d1a47ca",
+            "uuid": "6aa7d4d7ff2e42e9b65fff603d1258cc"
+          }
+        ],
+        [
+          "Probe",
+          3,
+          "21P",
+          "H2,H3,H4",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "cb6c4bcf71354fb7bbe0cf9a1aa9b0dd",
+            "uuid": "84692db103924ff0b9824090a260d74b"
+          }
+        ],
+        [
+          "Custom",
+          1,
+          "HEADER - HEADER-FEMALE-2.54_1X4",
+          "H5",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "Sparkfun",
+            "BOM_Manufacturer Part": "",
+            "puuid": "e5093c0354e147328ef4813f45d289fb",
+            "uuid": "3e680333a29649f0884211ec13d7ea68"
+          }
+        ],
+        [
+          "Active Low In",
+          1,
+          "HDR-TH_8PIN-V-MALE-PITCH2.54",
+          "H6",
+          {
+            "BOM_Supplier Part": "C49256",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "Header2.54mm 1*8P",
+            "puuid": "de3cdfdb7bbe4f6791e7118c4752ec9c",
+            "uuid": "1a948d227c4245ae83f5c5b97ba2bc7e"
+          }
+        ],
+        [
+          "GND",
+          1,
+          "HDR-TH_8PIN-V-MALE-PITCH2.54",
+          "H7",
+          {
+            "BOM_Supplier Part": "C49256",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "Header2.54mm 1*8P",
+            "puuid": "de3cdfdb7bbe4f6791e7118c4752ec9c",
+            "uuid": "1a948d227c4245ae83f5c5b97ba2bc7e"
+          }
+        ],
+        [
+          "Address 15-8",
+          1,
+          "HDR-TH_8PIN-V-MALE-PITCH2.54",
+          "H7-1",
+          {
+            "BOM_Supplier Part": "C49256",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "Header2.54mm 1*8P",
+            "puuid": "de3cdfdb7bbe4f6791e7118c4752ec9c",
+            "uuid": "1a948d227c4245ae83f5c5b97ba2bc7e"
+          }
+        ],
+        [
+          "Address 7-0",
+          1,
+          "HDR-TH_8PIN-V-MALE-PITCH2.54",
+          "H7-2",
+          {
+            "BOM_Supplier Part": "C49256",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "Header2.54mm 1*8P",
+            "puuid": "de3cdfdb7bbe4f6791e7118c4752ec9c",
+            "uuid": "1a948d227c4245ae83f5c5b97ba2bc7e"
+          }
+        ],
+        [
+          "Data 7-0",
+          1,
+          "HDR-TH_8PIN-V-MALE-PITCH2.54",
+          "H8",
+          {
+            "BOM_Supplier Part": "C49256",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "Header2.54mm 1*8P",
+            "puuid": "de3cdfdb7bbe4f6791e7118c4752ec9c",
+            "uuid": "1a948d227c4245ae83f5c5b97ba2bc7e"
+          }
+        ],
+        [
+          "Address 0-7",
+          1,
+          "BOX HEADER 8P",
+          "H9",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "BKL 10120552",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "e931cb9c5ef8499d81997fc9d3900455",
+            "uuid": "55b12ab96abb414ab9b05b84381c1db1"
+          }
+        ],
+        [
+          "Address 8-15",
+          1,
+          "BOX HEADER 8P",
+          "H10",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "BKL 10120552",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "e931cb9c5ef8499d81997fc9d3900455",
+            "uuid": "55b12ab96abb414ab9b05b84381c1db1"
+          }
+        ],
+        [
+          "Data 0-7",
+          1,
+          "BOX HEADER 8P",
+          "H11",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "BKL 10120552",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "e931cb9c5ef8499d81997fc9d3900455",
+            "uuid": "55b12ab96abb414ab9b05b84381c1db1"
+          }
+        ],
+        [
+          "5V",
+          1,
+          "HDR-TH_8PIN-V-MALE-PITCH2.54",
+          "H12",
+          {
+            "BOM_Supplier Part": "C49256",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "Header2.54mm 1*8P",
+            "puuid": "de3cdfdb7bbe4f6791e7118c4752ec9c",
+            "uuid": "1a948d227c4245ae83f5c5b97ba2bc7e"
+          }
+        ],
+        [
+          "US version",
+          1,
+          "HDR-TH_2P-P2.54-V-M-1",
+          "JP1",
+          {
+            "BOM_Supplier": "",
+            "BOM_Supplier Part": "NONE",
+            "BOM_Manufacturer": "NONE",
+            "BOM_Manufacturer Part": "NONE",
+            "puuid": "7ae61b24ec5d431087f34ea7cfebbd9e",
+            "uuid": "1f785ee0f729472eae11899cf0ae61b4"
+          }
+        ],
+        [
+          "Data Lo",
+          1,
+          "HDR-TH_2P-P2.54-V-M-1",
+          "JP2",
+          {
+            "BOM_Supplier": "",
+            "BOM_Supplier Part": "NONE",
+            "BOM_Manufacturer": "NONE",
+            "BOM_Manufacturer Part": "NONE",
+            "puuid": "7ae61b24ec5d431087f34ea7cfebbd9e",
+            "uuid": "1f785ee0f729472eae11899cf0ae61b4"
+          }
+        ],
+        [
+          "Address Lo",
+          1,
+          "HDR-TH_2P-P2.54-V-M-1",
+          "JP4",
+          {
+            "BOM_Supplier": "",
+            "BOM_Supplier Part": "NONE",
+            "BOM_Manufacturer": "NONE",
+            "BOM_Manufacturer Part": "NONE",
+            "puuid": "7ae61b24ec5d431087f34ea7cfebbd9e",
+            "uuid": "1f785ee0f729472eae11899cf0ae61b4"
+          }
+        ],
+        [
+          "Address Hi",
+          1,
+          "HDR-TH_2P-P2.54-V-M-1",
+          "JP5",
+          {
+            "BOM_Supplier": "",
+            "BOM_Supplier Part": "NONE",
+            "BOM_Manufacturer": "NONE",
+            "BOM_Manufacturer Part": "NONE",
+            "puuid": "7ae61b24ec5d431087f34ea7cfebbd9e",
+            "uuid": "1f785ee0f729472eae11899cf0ae61b4"
+          }
+        ],
+        [
+          "Header1x3",
+          1,
+          "HEADER1X3",
+          "JP6",
+          {
+            "BOM_Supplier Part": "C35445",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "LCSC",
+            "BOM_Manufacturer Part": "Header-Female-2.54_1x10",
+            "puuid": "7d0827ef7c2c456eaf59022ed84a3f3d",
+            "uuid": "1b65af72cdde40ceaec35f7c8add4a37"
+          }
+        ],
+        [
+          "Data LEDs",
+          1,
+          "HDR-TH_2P-P2.54-V-M-1",
+          "JP7",
+          {
+            "BOM_Supplier": "",
+            "BOM_Supplier Part": "NONE",
+            "BOM_Manufacturer": "NONE",
+            "BOM_Manufacturer Part": "NONE",
+            "puuid": "7ae61b24ec5d431087f34ea7cfebbd9e",
+            "uuid": "1f785ee0f729472eae11899cf0ae61b4"
+          }
+        ],
+        [
+          "Address LEDs",
+          1,
+          "HDR-TH_2P-P2.54-V-M-1",
+          "JP8",
+          {
+            "BOM_Supplier": "",
+            "BOM_Supplier Part": "NONE",
+            "BOM_Manufacturer": "NONE",
+            "BOM_Manufacturer Part": "NONE",
+            "puuid": "7ae61b24ec5d431087f34ea7cfebbd9e",
+            "uuid": "1f785ee0f729472eae11899cf0ae61b4"
+          }
+        ],
+        [
+          "Data LEDs",
+          1,
+          "BARGRAPH_8",
+          "L1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "622b689122744d099c00206d50a1b7f8",
+            "uuid": "1c2192e158624ea8b68aea4638da56a4"
+          }
+        ],
+        [
+          "Address LEDs A15-8",
+          1,
+          "BARGRAPH_8",
+          "L2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "622b689122744d099c00206d50a1b7f8",
+            "uuid": "1c2192e158624ea8b68aea4638da56a4"
+          }
+        ],
+        [
+          "Address LEDs A7-0",
+          1,
+          "BARGRAPH_8",
+          "L3",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "622b689122744d099c00206d50a1b7f8",
+            "uuid": "1c2192e158624ea8b68aea4638da56a4"
+          }
+        ],
+        [
+          "Custom LEDs",
+          1,
+          "BARGRAPH_8",
+          "L4",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "622b689122744d099c00206d50a1b7f8",
+            "uuid": "1c2192e158624ea8b68aea4638da56a4"
+          }
+        ],
+        [
+          "8x330",
+          4,
+          "RESISTORNETWORK_8",
+          "RN1,RN2,RN3,RN4",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "18c363fb38cb4fb4a39b1d521309f27f",
+            "uuid": "bf9d4e673a51435e949e749e24b321c9"
+          }
+        ],
+        [
+          "Data Lo",
+          1,
+          "DIPSWITCH-08",
+          "SW2",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "e6b95932b1c7403f84ef27b3cce5c8bd",
+            "uuid": "a5e315db7f144d3fbfc7385b2ccb3801"
+          }
+        ],
+        [
+          "Address 15-8 Hi",
+          1,
+          "DIPSWITCH-08",
+          "SW3",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "e6b95932b1c7403f84ef27b3cce5c8bd",
+            "uuid": "a5e315db7f144d3fbfc7385b2ccb3801"
+          }
+        ],
+        [
+          "Address 7-0 Hi",
+          1,
+          "DIPSWITCH-08",
+          "SW4",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "e6b95932b1c7403f84ef27b3cce5c8bd",
+            "uuid": "a5e315db7f144d3fbfc7385b2ccb3801"
+          }
+        ],
+        [
+          "Address 15-8 Lo",
+          1,
+          "DIPSWITCH-08",
+          "SW5",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "e6b95932b1c7403f84ef27b3cce5c8bd",
+            "uuid": "a5e315db7f144d3fbfc7385b2ccb3801"
+          }
+        ],
+        [
+          "Address 7-0 Lo",
+          1,
+          "DIPSWITCH-08",
+          "SW6",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "e6b95932b1c7403f84ef27b3cce5c8bd",
+            "uuid": "a5e315db7f144d3fbfc7385b2ccb3801"
+          }
+        ],
+        [
+          "Switches",
+          2,
+          "DIPSWITCH-08",
+          "SW7,SW8",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "e6b95932b1c7403f84ef27b3cce5c8bd",
+            "uuid": "a5e315db7f144d3fbfc7385b2ccb3801"
+          }
+        ]
+      ],
+      "updateTime": 1650636496,
+      "createTime": 1643896059,
+      "histories": [],
+      "created_at": "2022-02-03 14:47:39",
+      "updated_at": "2022-04-22 16:08:16"
+    },
+    {
+      "uuid": "1e38c291d51cd4850d56100acebe82cb",
+      "puuid": "065563ce65856cb028f83ad07d697b2f",
+      "title": "PCB_TRS-80 Testboard_2",
+      "filename": "PCB_TRS-80 Testboard_2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "de3cdfdb7bbe4f6791e7118c4752ec9c": 6,
+        "a70ada0c1943479e92833b04204d8129": 1,
+        "cb6c4bcf71354fb7bbe0cf9a1aa9b0dd": 3,
+        "4585a137ffd24bfd865e9ca62d1a47ca": 1,
+        "e5093c0354e147328ef4813f45d289fb": 1,
+        "622b689122744d099c00206d50a1b7f8": 4,
+        "7ae61b24ec5d431087f34ea7cfebbd9e": 6,
+        "18c363fb38cb4fb4a39b1d521309f27f": 4,
+        "e6b95932b1c7403f84ef27b3cce5c8bd": 7,
+        "e931cb9c5ef8499d81997fc9d3900455": 3,
+        "4816d59f68d74bfc90a535373dce0cdb": 1,
+        "7d0827ef7c2c456eaf59022ed84a3f3d": 1
+      },
+      "BOM": [],
+      "updateTime": 1650722675,
+      "createTime": 1643900505,
+      "histories": [],
+      "created_at": "2022-02-03 16:01:45",
+      "updated_at": "2022-04-23 16:04:35"
+    }
+  ],
+  "sort": [],
+  "title": "TRS-80 Testboard",
+  "foldername": "TRS-80 Testboard",
+  "schfilename": "TRS-80 Testboard.json",
+  "schfilemtime": 1650636496741
+}
